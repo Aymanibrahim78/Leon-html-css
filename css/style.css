@@ -169,7 +169,7 @@ margin: 0 ;
 /* End Header */
 /* Start Landing Section */
 .Landing{
-  background-image: url(/imgs/landing.jpg);
+  background-image: url(./imgs/landing.jpg);
   background-size: cover;
   height: calc(100vh - 64px);
   position: relative;
